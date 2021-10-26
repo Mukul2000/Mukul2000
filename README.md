@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Mukul,
-- 👀 I’m interested in back-end web development.
-- 🌱 I’m currently learning back-end engineering.
-- 💞️ I’m looking to collaborate on projects involving automation, IoT or web development.
+- 👀 I’m interested in Full stack web development.
+- 🌱 I’m currently brushing up my skills in frontend.
+- 💞️ I’m looking to collaborate on projects involving webapps, developer tools etc.
 - 📫 Reach me at mukulkumar627@gmail.com
 
 <!---
