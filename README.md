@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Mukul,
-- 👀 I’m interested in Full stack web development.
-- 🌱 I’m currently brushing up my skills in frontend.
-- 💞️ I’m looking to collaborate on projects involving webapps, developer tools etc.
+- 👀 I’m a Backend developer, though I can work on the frontend as well.
 - 📫 Reach me at mukulkumar627@gmail.com
 
 <!---
