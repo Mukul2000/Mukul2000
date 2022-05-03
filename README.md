@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Mukul,
-- 👀 I’m a Backend developer, though I can work on the frontend as well.
+- 👀 I’m a Fullstack developer with a subtle love for backend.
 - 📫 Reach me at mukulkumar627@gmail.com
 
 <!---
